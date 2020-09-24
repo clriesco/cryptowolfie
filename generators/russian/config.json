@@ -1,0 +1,21 @@
+{ 
+    "exchange"  : "binance",
+    "symbol"   : "BTC/USDT",
+    "requiredHistory"   : 360,
+    "candlesRefreshRate"    : 60000,
+    "timeFrame": "1h",
+	"fastRSIperiod" : 7,
+	"slowRSIperiod" : 14,
+	"meanfulbardiv" : 3,
+	"percentLongBar": 1.015,
+	"rsilimit1" : 25,
+	"rsilimit2" : 25,
+	"SMAfilterlimit" : 10,
+	"useSMAfilter": true,
+	"usersi1" :true,
+	"usersi2" :true,
+	"useBar3" : false,
+	"needLong" : true,
+	"needShort" :true,
+	"maxposition" : 1
+}

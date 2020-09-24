@@ -1,0 +1,14 @@
+{ 
+    "cryptoBotToken"  : "********",
+    "basePlayStopLoss" : 0.905,
+    "cryptopingStopLoss" : 0.9,
+    "cryptopingTakeProfit": 1.015,
+    "cryptopingTLMargin" : 0.008,
+    "sellWallTLMargin" : 0.01,
+    "qflStopLoss" : 0.9,
+    "qflTLMargin" : 0.01,
+    "cryptopingName": "cryptoping",
+    "baseName": "base",
+    "sellWallName": "sell wall",
+    "qflName": "qfl"
+}

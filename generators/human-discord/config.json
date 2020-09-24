@@ -1,0 +1,6 @@
+{ 
+    "humanToken"  : "*****", 
+    "qflStopLoss" : 0.9,
+    "qflTLMargin" : 0.01,
+    "qflName": "qfl"
+}

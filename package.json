@@ -1,0 +1,35 @@
+{
+  "name": "cryptowolfie",
+  "version": "1.0.0",
+  "description": "Modular Cryptobot, by Charly Lopez",
+  "main": "main.js",
+  "scripts": {
+    "test": "DEBUG=cryptowolfie:* node main"
+  },
+  "keywords": [
+    "cryptobot",
+    "bot",
+    "cryptocurrencies",
+    "node",
+    "bitcoin",
+    "signals"
+  ],
+  "author": "Charly Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.15.13",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "debug": "^3.1.0",
+    "express": "^4.16.3",
+    "generator-discord": "file:generators/discord",
+    "generator-russian": "file:generators/russian",
+    "generator-human-discord": "file:generators/human-discord",
+    "moment": "^2.22.1",
+    "moment-duration-format": "^2.2.2",
+    "mongodb": "^3.0.6",
+    "mongoose": "^5.0.15",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "generator-russian",
+    "version": "1.0.0",
+    "description": "Double RSI Strategy Signal Generator for CryptoWolfie",
+    "main": "index.js",
+    "author": "My Favorite Russian",
+    "license": "MIT",
+    "dependencies": {
+        "debug": "^3.1.0",
+        "ccxt": "^1.14.267"
+    }
